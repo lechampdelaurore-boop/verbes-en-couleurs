@@ -202,7 +202,7 @@ async function jouerUn(page) {
     const page = await browser.newPage({ viewport: { width: 390, height: 844 } });
     await page.goto('https://lechampdelaurore-boop.github.io/?nocache=' + Date.now());
     let ok = false;
-    try { await page.waitForSelector('a[href*="verbes-en-couleurs"]', { timeout: 30000 }); ok = true; } catch (e) { /* pas trouvée */ }
+    try { await page.waitForSelector('a[href*="verbes-en-couleurs"]', { state: 'attached', timeout: 30000 }); ok = true; } catch (e) { /* pas trouvée */ }
     await page.screenshot({ path: 'captures/mes-applis.png', fullPage: true });
     note(ok, 'L\'appli apparaît sur « Mes applis »');
     await page.close();
