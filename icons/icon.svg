@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#E0D6FF"/>
+  <text x="256" y="196" text-anchor="middle" font-family="Fredoka, 'Trebuchet MS', Arial, sans-serif" font-weight="700" font-size="172" fill="#2B2340">je</text>
+  <g stroke="#2B2340" stroke-width="12" stroke-linejoin="round">
+    <path d="M182 334h40M314 334h40" fill="none" stroke-width="14"/>
+    <rect x="58" y="274" width="128" height="110" rx="24" fill="#9AD7FF"/>
+    <rect x="200" y="274" width="112" height="110" rx="24" fill="#C9B6FF"/>
+    <rect x="326" y="274" width="128" height="110" rx="24" fill="#FF8FB8"/>
+    <circle cx="96" cy="408" r="20" fill="#2B2340"/><circle cx="148" cy="408" r="20" fill="#2B2340"/>
+    <circle cx="232" cy="408" r="20" fill="#2B2340"/><circle cx="280" cy="408" r="20" fill="#2B2340"/>
+    <circle cx="364" cy="408" r="20" fill="#2B2340"/><circle cx="416" cy="408" r="20" fill="#2B2340"/>
+  </g>
+  <g fill="#fff" opacity=".6"><rect x="74" y="288" width="40" height="14" rx="7"/><rect x="216" y="288" width="34" height="14" rx="7"/><rect x="342" y="288" width="40" height="14" rx="7"/></g>
+</svg>
