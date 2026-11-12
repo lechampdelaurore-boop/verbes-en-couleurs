@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "Verbes en couleurs",
+  "short_name": "Verbes",
+  "description": "Apprendre la conjugaison du CM2 : le verbe en 3 morceaux de couleur, 6 temps, révisions espacées.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFF4FA",
+  "theme_color": "#E0D6FF",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
