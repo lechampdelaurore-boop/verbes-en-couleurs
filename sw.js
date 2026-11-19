@@ -1,6 +1,6 @@
 // Garde l'appli disponible hors ligne.
 // Changer CACHE à chaque mise à jour des fichiers listés ci-dessous.
-var CACHE = 'verbes-en-couleurs-v3';
+var CACHE = 'verbes-en-couleurs-v4';
 var FILES = [
   './',
   './index.html',
