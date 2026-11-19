@@ -90,5 +90,6 @@ Par défaut, l'appli ne parle pas : les marques du verbe ne s'entendent pas, tou
 ## Prénom et données
 
 - L'appli dit bonjour avec le prénom choisi sur la page « Mes applis ». Elle ne le modifie jamais.
-- Tout reste dans le navigateur du téléphone ou de la tablette : aucun compte, rien n'est envoyé sur internet, le micro n'est jamais utilisé. Effacer les données du navigateur efface aussi les progrès.
+- Tout reste dans le navigateur du téléphone ou de la tablette : aucun compte, rien sur les progrès n'est envoyé sur internet, le micro n'est jamais utilisé. Effacer les données du navigateur efface aussi les progrès.
+- Un compteur de visites anonyme (GoatCounter) compte seulement les ouvertures de l'appli : pas de cookie, pas de nom.
 - Les progrès ne passent pas d'un appareil à l'autre.

@@ -55,7 +55,7 @@ Seul le premier essai de la journée compte : réussi, la carte s'éloigne ; rat
 
 Sons, animations, vibrations, voix (lire les phrases à voix haute, voix lente), étiquettes « Construire » (automatique, toujours, jamais), longueur de la séance (8, 12 ou 16 questions), accord du participe passé avec *avoir* (désactivé au départ) et « Revoir le verbe en 3 morceaux ». Les animations respectent aussi le réglage « réduire les animations » du téléphone.
 
-Les progrès restent dans le navigateur de l'appareil : aucun compte, et rien n'est envoyé sur internet. L'appli ne se sert pas du micro.
+Les progrès restent dans le navigateur de l'appareil : aucun compte, et rien sur les progrès n'est envoyé sur internet. Seul un compteur de visites anonyme (GoatCounter) compte les ouvertures de l'appli : pas de cookie, pas de nom. L'appli ne se sert pas du micro.
 
 ## Fichiers
 
