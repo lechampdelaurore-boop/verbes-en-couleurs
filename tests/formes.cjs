@@ -24,6 +24,10 @@ const REF = {
   'avoir': {
     pres: 'ai as a avons avez ont', imp: 'avais avais avait avions aviez avaient', fut: 'aurai auras aura aurons aurez auront',
     ps: 'eus eus eut eûmes eûtes eurent', pc: 'ai_eu as_eu a_eu avons_eu avez_eu ont_eu', pqp: 'avais_eu avais_eu avait_eu avions_eu aviez_eu avaient_eu' },
+  gagner: {
+    pres: 'gagne gagnes gagne gagnons gagnez gagnent', imp: 'gagnais gagnais gagnait gagnions gagniez gagnaient',
+    fut: 'gagnerai gagneras gagnera gagnerons gagnerez gagneront', ps: 'gagnai gagnas gagna gagnâmes gagnâtes gagnèrent',
+    pc: 'ai_gagné as_gagné a_gagné avons_gagné avez_gagné ont_gagné', pqp: 'avais_gagné avais_gagné avait_gagné avions_gagné aviez_gagné avaient_gagné' },
   chanter: {
     pres: 'chante chantes chante chantons chantez chantent', imp: 'chantais chantais chantait chantions chantiez chantaient',
     fut: 'chanterai chanteras chantera chanterons chanterez chanteront', ps: 'chantai chantas chanta chantâmes chantâtes chantèrent',
